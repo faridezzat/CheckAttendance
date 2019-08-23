@@ -1,0 +1,20 @@
+Unable to Connect 8/11/2019 3:39:21 PM
+Unable to Connect 8/11/2019 3:40:21 PM
+Unable to Connect 8/11/2019 3:41:21 PM
+Unable to Connect 8/11/2019 3:42:21 PM
+Unable to Connect 8/11/2019 3:43:21 PM
+insert into CHECKINOUT (USERID, CHECKTIME, CHECKTYPE, SENSORID) values (1,'2103-8-18 6:33:37','0',1)
+insert into CHECKINOUT (USERID, CHECKTIME, CHECKTYPE, SENSORID) values (32419,'2103-8-18 6:33:51','0',1)
+Unable to Connect 8/13/2019 12:39:12 PM
+Unable to Connect 8/13/2019 12:42:18 PM
+Unable to Connect 8/13/2019 12:43:18 PM
+Unable to Connect 8/13/2019 12:44:18 PM
+Unable to Connect 8/13/2019 12:45:18 PM
+Unable to Connect 8/13/2019 12:46:18 PM
+Unable to Connect 8/13/2019 12:47:18 PM
+Unable to Connect 8/13/2019 12:48:18 PM
+Unable to Connect 8/13/2019 12:49:18 PM
+Unable to Connect 8/13/2019 12:50:18 PM
+Unable to Connect 8/13/2019 12:51:18 PM
+insert into CHECKINOUT (USERID, CHECKTIME, CHECKTYPE, SENSORID) values (1,'2103-8-18 6:30:47','0',1)
+insert into CHECKINOUT (USERID, CHECKTIME, CHECKTYPE, SENSORID) values (32419,'2103-8-18 6:30:51','0',1)
