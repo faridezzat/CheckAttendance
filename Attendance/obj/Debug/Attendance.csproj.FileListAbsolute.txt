@@ -14,3 +14,15 @@ D:\Projects\CheckAttendance\Attendance\obj\Debug\Interop.zkemkeeper.dll
 D:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.csproj.ResolveComReference.cache
 D:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.exe
 D:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.pdb
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Attendance.exe.config
+H:\Projects\CheckAttendance\Attendance\obj\Debug\Interop.zkemkeeper.dll
+H:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.csproj.ResolveComReference.cache
+H:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.exe
+H:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.pdb
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Attendance.exe
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Attendance.pdb
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Newtonsoft.Json.dll
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Topshelf.dll
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Newtonsoft.Json.xml
+H:\Projects\CheckAttendance\Attendance\bin\Debug\Topshelf.xml
+H:\Projects\CheckAttendance\Attendance\obj\Debug\Attendance.csprojResolveAssemblyReference.cache

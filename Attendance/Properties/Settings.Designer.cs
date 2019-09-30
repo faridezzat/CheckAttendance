@@ -78,5 +78,15 @@ namespace Attendance.Properties {
                 return ((bool)(this["delete"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=payrollschedulerdb;User ID=sa;Password=fhfhds,u33")]
+        public string Destination {
+            get {
+                return ((string)(this["Destination"]));
+            }
+        }
     }
 }
